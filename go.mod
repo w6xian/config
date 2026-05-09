@@ -1,6 +1,6 @@
 module github.com/w6xian/config
 
-go 1.26.2
+go 1.23.0
 
 require github.com/spf13/viper v1.21.0
 
